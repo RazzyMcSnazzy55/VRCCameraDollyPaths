@@ -1,0 +1,74 @@
+[
+  {
+    "IsLocal": true,
+    "Position": {"X": 0.0, "Y": 1.5, "Z": -1.0},
+    "LookAtMeXOffset": 0.0,
+    "LookAtMeYOffset": 0.0,
+    "Zoom": 50.0,
+    "Duration": 2,
+    "Index": -1
+  },
+  {
+    "IsLocal": true,
+    "Position": {"X": 0.0, "Y": 1.5, "Z": -1.0},
+    "LookAtMeXOffset": 15.0,
+    "LookAtMeYOffset": 0.0,
+    "Zoom": 50.0,
+    "Duration": 2,
+    "Index": -1
+  },
+  {
+    "IsLocal": true,
+    "Position": {"X": 0.0, "Y": 1.5, "Z": -1.0},
+    "LookAtMeXOffset": 15.0,
+    "LookAtMeYOffset": -15.0,
+    "Zoom": 50.0,
+    "Duration": 2,
+    "Index": -1
+  },
+  {
+    "IsLocal": true,
+    "Position": {"X": 0.0, "Y": 1.5, "Z": -1.0},
+    "LookAtMeXOffset": -15.0,
+    "LookAtMeYOffset": -15.0,
+    "Zoom": 50.0,
+    "Duration": 2,
+    "Index": -1
+  },
+  {
+    "IsLocal": true,
+    "Position": {"X": 0.0, "Y": 1.5, "Z": -1.0},
+    "LookAtMeXOffset": -15.0,
+    "LookAtMeYOffset": 15.0,
+    "Zoom": 50.0,
+    "Duration": 2,
+    "Index": -1
+  },
+  {
+    "IsLocal": true,
+    "Position": {"X": 0.0, "Y": 1.5, "Z": -1.0},
+    "LookAtMeXOffset": 15.0,
+    "LookAtMeYOffset": 15.0,
+    "Zoom": 50.0,
+    "Duration": 2,
+    "Index": -1
+  },
+  {
+    "IsLocal": true,
+    "Position": {"X": 0.0, "Y": 1.5, "Z": -1.0},
+    "LookAtMeXOffset": 15.0,
+    "LookAtMeYOffset": 0.0,
+    "Zoom": 50.0,
+    "Duration": 2,
+    "Index": -1
+  },
+  {
+    "IsLocal": true,
+    "Position": {"X": 0.0, "Y": 1.5, "Z": -1.0},
+    "LookAtMeXOffset": 0.0,
+    "LookAtMeYOffset": 0.0,
+    "Zoom": 50.0,
+    "Duration": 2,
+    "Index": -1
+  }
+]

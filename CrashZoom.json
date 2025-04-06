@@ -1,0 +1,34 @@
+[
+  {
+    "IsLocal": true,
+    "Position": {"X": 0.0, "Y": 1.5, "Z": 2.0},
+    "Rotation": {"X": 0.0, "Y": 180.0, "Z": 0.0},
+    "Zoom": 45.0,
+    "Duration": 1.0,
+    "Index": -1
+  },
+  {
+    "IsLocal": true,
+    "Position": {"X": 0.0, "Y": 1.5, "Z": 2.0},
+    "Rotation": {"X": 0.0, "Y": 180.0, "Z": 0.0},
+    "Zoom": 45.0,
+    "Duration": 0.1,
+    "Index": -1
+  },
+  {
+    "IsLocal": true,
+    "Position": {"X": 0.0, "Y": 1.5, "Z": 2.0},
+    "Rotation": {"X": 0.0, "Y": 180.0, "Z": 0.0},
+    "Zoom": 120.0,
+    "Duration": 1.0,
+    "Index": -1
+  },
+  {
+    "IsLocal": true,
+    "Position": {"X": 0.0, "Y": 1.5, "Z": 2.0},
+    "Rotation": {"X": 0.0, "Y": 180.0, "Z": 0.0},
+    "Zoom": 120.0,
+    "Duration": 1.0,
+    "Index": -1
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "IsLocal": true,
+    "Position": {"X": 0.0, "Y": 1.75, "Z": 0.2},
+    "Rotation": {"X": 0.0, "Y": 180.0, "Z": 0.0},
+    "Zoom": 50.0,
+    "Duration": 2,
+    "Index": -1
+  },
+  {
+    "IsLocal": true,
+    "Position": {"X": 0.0, "Y": 0.25, "Z": 0.2},
+    "Rotation": {"X": 0.0, "Y": 180.0, "Z": 0.0},
+    "Zoom": 50.0,
+    "Duration": 2,
+    "Index": -1
+  }
+]

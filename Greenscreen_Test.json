@@ -1,0 +1,79 @@
+[
+  {
+    "IsLocal": true,
+    "Position": {"X": 0.0, "Y": 1.5, "Z": 1.0},
+    "Rotation": {"X": 0.0, "Y": 180.0, "Z": 0.0},
+    "Hue": 360.0,
+    "Saturation": 100.0,
+    "Lightness": 50.0,
+    "Zoom": 50.0,
+    "Duration": 2,
+    "Index": -1
+  },
+  {
+    "IsLocal": true,
+    "Position": {"X": 0.0, "Y": 1.5, "Z": 1.0},
+    "Rotation": {"X": 0.0, "Y": 180.0, "Z": 0.0},
+    "Hue": 0.0,
+    "Saturation": 100.0,
+    "Lightness": 50.0,
+    "Zoom": 50.0,
+    "Duration": 2,
+    "Index": -1
+  },
+  {
+    "IsLocal": true,
+    "Position": {"X": 0.0, "Y": 1.5, "Z": 1.0},
+    "Rotation": {"X": 0.0, "Y": 180.0, "Z": 0.0},
+    "Hue": 360.0,
+    "Saturation": 100.0,
+    "Lightness": 50.0,
+    "Zoom": 50.0,
+    "Duration": 2,
+    "Index": -1
+  },
+  {
+    "IsLocal": true,
+    "Position": {"X": 0.0, "Y": 1.5, "Z": 1.0},
+    "Rotation": {"X": 0.0, "Y": 180.0, "Z": 0.0},
+    "Hue": 360.0,
+    "Saturation": 0.0,
+    "Lightness": 50.0,
+    "Zoom": 50.0,
+    "Duration": 2,
+    "Index": -1
+  },
+  {
+    "IsLocal": true,
+    "Position": {"X": 0.0, "Y": 1.5, "Z": 1.0},
+    "Rotation": {"X": 0.0, "Y": 180.0, "Z": 0.0},
+    "Hue": 360.0,
+    "Saturation": 100.0,
+    "Lightness": 50.0,
+    "Zoom": 50.0,
+    "Duration": 2,
+    "Index": -1
+  },
+  {
+    "IsLocal": true,
+    "Position": {"X": 0.0, "Y": 1.5, "Z": 1.0},
+    "Rotation": {"X": 0.0, "Y": 180.0, "Z": 0.0},
+    "Hue": 360.0,
+    "Saturation": 100.0,
+    "Lightness": 0.0,
+    "Zoom": 50.0,
+    "Duration": 2,
+    "Index": -1
+  },
+  {
+    "IsLocal": true,
+    "Position": {"X": 0.0, "Y": 1.5, "Z": 1.0},
+    "Rotation": {"X": 0.0, "Y": 180.0, "Z": 0.0},
+    "Hue": 360.0,
+    "Saturation": 100.0,
+    "Lightness": 50.0,
+    "Zoom": 50.0,
+    "Duration": 2,
+    "Index": -1
+  }
+]
