@@ -12,14 +12,14 @@ How to Use:
 Animations:
 * <b>Arc</b>: A smoothly looping orbit
 * <b>Boom</b>: A simple boom shot (vertical movement)
-* <b>Crash Zoom</b>: Zooms very quickly, a.k.a. whip zoom or Snap zoom
+* <b>Crash Zoom</b>: Zooms very quickly, a.k.a. Whip zoom or Snap zoom
 * <b>DoF Test</b>: A test demonstration of focal distance and aperture being animated. Make sure to enable Focus!
 * <b>Dolly Zoom In</b>: Camera moves opposite to zoom, creating a vertigo effect
 * <b>Dolly Zoom Out</b>: Same as Dolly Zoom In, but opposite direction
 * <b>Eased Pan</b>: A pan that slows down in the middle. Make sure to set Motion to Speed!
 * <b>Greenscreen Test</b>: A test demonstration of Greenscreen HSL being animated. Make sure to enable Greenscreen!
 * <b>Head Shoulders Knees and Toes</b>: A slightly more complex circular animation for showcasing avatars top to bottom
-* <b>Look AT Me Test</b>: A test demonstration of Look AT Me offsets being animated. Make sure to enable Look At Me!
+* <b>Look AT Me Test</b>: A test demonstration of Look At Me offsets being animated. Make sure to enable Look At Me!
 * <b>Pan</b>: A simple pan shot (horizontal rotation)
 * <b>Push In</b>: A simple push in shot (forward movement)
 * <b>Push Out</b>: Same as Push In, but opposite direction (backward movement)
