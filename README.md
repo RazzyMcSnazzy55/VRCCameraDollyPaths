@@ -4,6 +4,8 @@ A collection of basic animation paths for use with the VRChat Camera Dolly.
 How to Use:
 * Download JSON file, copy its file path
 * Tweak duration/speed, zoom, height (Position Y) and other values as desired
+  * As is, this collection assumes default height of about 1.7m
+  * If you're wanting to use an animation with an avatar that is smaller or taller, you'll need to update each point's Position Y value accordingly
 * In VRChat, open the camera, navigate to Dolly, and under Advanced, click Import
 * Paste the file path and click Submit
 
